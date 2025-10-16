@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f8fa;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 6px;
+  width: 100%;
+}
+
+button {
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px;
+  text-align: left;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+.card {
+  border: none;
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+body {
+  background-color: #f8f9fa; /* abu muda */
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #0d6efd;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: #0d6efd;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+
